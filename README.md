@@ -1,4 +1,4 @@
-# ActivitySuggester-CFStailored
+#CFSr
 ## ask her what to do and she'll ask you how many hours of high activity you have left. she'll then tailor the activity to suit your energy level. 
 
 Upon running the program, the instructions "Ask her what to do:" are shown. I would like to change this to a button.
